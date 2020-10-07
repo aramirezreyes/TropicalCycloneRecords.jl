@@ -1,0 +1,13 @@
+name = "Tropical"
+uuid = "6b483f74-7a2e-47cf-8bae-b69f5323f383"
+authors = ["Argel Ramírez Reyes <argel.ramirez@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
