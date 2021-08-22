@@ -1,4 +1,4 @@
-module Tropical
+module TropicalCycloneRecords
 
 using HTTP: get
 using StringEncodings: decode

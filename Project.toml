@@ -1,7 +1,7 @@
-name = "Tropical"
+name = "TropicalCycloneRecords"
 uuid = "6b483f74-7a2e-47cf-8bae-b69f5323f383"
 authors = ["Argel Ramírez Reyes <argel.ramirez@gmail.com> and contributors"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"

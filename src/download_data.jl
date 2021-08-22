@@ -184,5 +184,4 @@ function read_and_process_hurdat(atlantic_url ="https://www.nhc.noaa.gov/data/hu
     data_dict = Dict{String,Dict{T,N} where T where N}()
     res = Tropical.read_hurdat(atlantic_url,flag)
     hurdat_data = hurdat_to_dictionary!(res,data_dict,override_basin)
-
 end
